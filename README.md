@@ -1,16 +1,16 @@
-This project is developed to build Automation test classes for the www.amazon.com site.
+1)This project is developed to build Automation test classes for the www.amazon.com site.
 
-Framework Adopted : Selenium Web Driver 
+2)Framework Adopted : Selenium Web Driver 
 
-Language : Java Design 
+3)Language : Java Design 
 
-Methodology : Page Object model Using Selenium Web Driver
+4)Methodology : Page Object model Using Selenium Web Driver
 
-Build Tool : Maven
+5)Build Tool : Maven
 
-Report: TestNG reports - test-output/index.html#
+6)Report: TestNG reports - test-output/index.html#
 
-Scenarios:
+7)Scenarios:
 
 Login to www.amazon.com
 
@@ -29,6 +29,9 @@ Proceed to checkout
 Go back and signout
 
 Check Report in test-output/index.html
+
+
+To Run the test case , clone the git repo and run Amazon Test as TestNG.
 
 
 
