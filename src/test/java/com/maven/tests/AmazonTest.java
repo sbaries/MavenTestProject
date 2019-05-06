@@ -25,7 +25,6 @@ public class AmazonTest extends BasePage {
 		cartandcheckoutPage.AddCart();
 		alertPage.CloseAlert();
 	}
-	
 	@Test( priority = 2 )
 	public void MacBookProTest () throws InterruptedException {
 		
@@ -58,4 +57,5 @@ public class AmazonTest extends BasePage {
 		logoutPage.logoutToApp();
 		
 	}
+	
 }
